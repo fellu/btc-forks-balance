@@ -8,6 +8,7 @@ A tool to get all BTC forks balances related to a given address.
 * Super Bitcoin/SBTC
 * Segwit2X/B2X
 * United Bitcoin/UBTC
+* Bitcoin Interest/BCI
 
 If you want to see a fork that is not on the list, please
 [place an issue](https://github.com/someone235/btc-forks-balance/issues/new),
